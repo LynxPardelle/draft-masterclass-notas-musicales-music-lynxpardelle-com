@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-notas-musicales.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Notas musicales y lectura básica | Lynx Pardelle",
+    "description": "Identifica las alturas con sus nombres y con el cifrado americano. Después, llévalas al pentagrama y reconoce cómo se escriben en clave de sol y clave de fa.",
+    "canonical": "https://masterclass-notas-musicales.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-teoria.webp"
+    }
+  }
+}
