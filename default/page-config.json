@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Notas musicales y lectura básica | Lynx Pardelle",
-    "description": "Identifica las alturas con sus nombres y con el cifrado americano. Después, llévalas al pentagrama y reconoce cómo se escriben en clave de sol y clave de fa.",
+    "title": "Masterclass de notas musicales y claves de sol y fa | Lynx Pardelle",
+    "description": "Reconoce notas, cifrado americano y alteraciones. Practica la lectura en claves de sol y fa en esta masterclass de 1 a 2 horas.",
     "canonical": "https://masterclass-notas-musicales.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-notas-musicales-r2-3f581966394599ad.webp",
+      "title": "Masterclass de notas musicales y claves de sol y fa | Lynx Pardelle",
+      "description": "Reconoce notas, cifrado americano y alteraciones. Practica la lectura en claves de sol y fa en esta masterclass de 1 a 2 horas.",
+      "url": "https://masterclass-notas-musicales.music.lynxpardelle.com/",
+      "imageAlt": "Piano acústico y partitura manuscrita vistos de cerca."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de notas musicales y claves de sol y fa | Lynx Pardelle",
+      "description": "Reconoce notas, cifrado americano y alteraciones. Practica la lectura en claves de sol y fa en esta masterclass de 1 a 2 horas.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-notas-musicales-r2-3f581966394599ad.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-notas-musicales.music.lynxpardelle.com/#webpage",
+        "name": "Notas musicales y lectura básica",
+        "description": "Reconoce notas, cifrado americano y alteraciones. Practica la lectura en claves de sol y fa en esta masterclass de 1 a 2 horas.",
+        "url": "https://masterclass-notas-musicales.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-notas-musicales.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-notas-musicales.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Notas musicales y lectura básica",
+        "description": "Reconoce notas, cifrado americano y alteraciones. Practica la lectura en claves de sol y fa en esta masterclass de 1 a 2 horas.",
+        "url": "https://masterclass-notas-musicales.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-notas-musicales-r2-3f581966394599ad.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-notas-musicales.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
